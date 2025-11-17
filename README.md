@@ -15,10 +15,8 @@ Data Engineering student at Stockholms Tekniska Institut (STI), currently wokrin
 - 🌍 Building projects that bring **data skill transparency** to employers and students  
 - ✍️ Documenting everything with for my learning
 - 
-## 🤝 Let’s Connect  
-Open to networking, collaboration, and building real-world data projects together.
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aira-franco0965) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adelosofranco@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aira-franco0965/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adelosofranco@gmail.com) 
 
 ---
 
@@ -58,4 +56,3 @@ Open to networking, collaboration, and building real-world data projects togethe
 - ✨ Always learning. Keep on going. 
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
