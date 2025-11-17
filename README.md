@@ -55,3 +55,11 @@ Data Engineering student at Stockholms Tekniska Institut (STI), currently wokrin
 - ✨ Always learning. Keep on going. 
 
 ---
+## 🎥 Favorite YouTube Videos of the Month
+
+### 📌 Title of the Video
+[![Two ChatGPTs talking to each other](https://www.youtube.com/watch?v=OyEHnIC45Zk)
+
+### 📌 Another Video
+[![NASA COding Requirements. APPLY NOW!](https://www.youtube.com/watch?v=JWKadu0ks20)
+
