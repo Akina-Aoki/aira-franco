@@ -14,8 +14,11 @@ Data Engineering student at Stockholms Tekniska Institut (STI), currently wokrin
 - 📈 Targeting Data Engineering roles for my **LIA internship (Jan–May 2027)**  
 - 🌍 Building projects that bring **data skill transparency** to employers and students  
 - ✍️ Documenting everything with for my learning
-- 📫 Connect with me:  
-  **[LinkedIn](https://www.linkedin.com/in/aira-franco0965)** | **[GitHub](https://github.com/Akina-Aoki)**
+- 
+## 🤝 Let’s Connect  
+Open to networking, collaboration, and building real-world data projects together.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aira-franco0965) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adelosofranco@gmail.com)
 
 ---
 
@@ -52,14 +55,7 @@ Data Engineering student at Stockholms Tekniska Institut (STI), currently wokrin
 ##  Fun Facts  
 - ☕ Enjoys hiking, snowboarding, camping, good roasted coffee and cooking  
 - 🧳 Loves studying Data Engineering and collaborating on projects  
-- ✨ Always learning. Keep on going.
-
----
-
-## 🤝 Let’s Connect  
-Open to networking, collaboration, and building real-world data projects together.
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aira-franco0965) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adelosofranco@gmail.com) 
+- ✨ Always learning. Keep on going. 
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
