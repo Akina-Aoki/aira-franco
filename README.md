@@ -1,7 +1,16 @@
 <!-- Banner -->
 <h1 align="center">🌙 Hej! こんにちは！ I'm Aira</h1>
 <p align="center">
-Data Engineering student at Stockholms Tekniska Institut (STI), currently wokring on my skills to building data pipelines, analytical workflows, and cloud-ready solutions with a growth mindset and strong execution.
+class Aira:
+    def __init__(self):
+        self.curiosity = float("inf")
+        self.stack = ["SQL", "Python", "ETL"]
+
+    def iterate(self):
+        return "Always learning. Always building. Data Engineering in progress."
+
+me = Aira()
+
 </p>
 
 ![snake gif](https://github.com/Akina-Aoki/Akina-Aoki/blob/output/github-contribution-grid-snake.svg)
