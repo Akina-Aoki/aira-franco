@@ -1,15 +1,23 @@
 <!-- Banner -->
 <h1 align="center">🌙 Hej! こんにちは！ I'm Aira</h1>
-<p align="center">
+
+<div align="left">
+
+```python
 class Aira:
     def __init__(self):
         self.curiosity = float("inf")
         self.stack = ["SQL", "Python", "ETL"]
+        self.institution = "Stockholms Tekniska Institut"
 
     def iterate(self):
-        return "Always learning. Always building. Data Engineering in progress."
+        return "Always learning. Always building. Data Engineering skills in progress."
+    def study(self):
+                return f"Currently studying Data Engineering at {self.institution}."
 
 me = Aira()
+
+```
 
 </p>
 
