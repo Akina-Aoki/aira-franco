@@ -24,28 +24,22 @@ me = Aira()
 ![snake gif](https://github.com/Akina-Aoki/Akina-Aoki/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
 ## 🧭 About Me   
 - 💡 Likes to learn about data pipelines, automation, cloud analytics, and real-world data impact  
 - 🧠 Exploring Python, DuckDB SQL, data modeling, visualization, NoSQL, data warehouse lifecycle, big data, cloud-practical development, and AI Ops (part of curriculum)   
 - 📈 Targeting Data Engineering roles for my **LIA internship (Jan–May 2027)**  
 - 🌍 Building projects that bring **data skill transparency** to employers and students  
 - ✍️ Documenting everything with for my learning
-- 
-## 🌐 Socials:
-**[LinkedIn](https://www.linkedin.com/in/aira-franco0965/)**  
 ---
-
 # 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 **Working with:** Python | SQL | Pandas | DuckDB | Git | Data Modeling (coming soon) | ETL/ELT (coming soon) | NoSQL (coming soon) | Cloud Basics (coming soon) | Data Warehousing (coming soon) | Data Visualization (coming soon) | AI Ops (coming soon)
 
 ---
-
 ## 🚀 Projects & Highlights
-- 🦆 **DuckDB SQL Setup** – Lightweight analytics database setup and workflow demos  
-- 🧮 **OOP Geometry Lab** – Python OOP shapes with pytest testing  
+- 🦆 **DuckDB SQL Relational Database** 
+- 🧮 **OOP / Python**   
 - 📊 **ETL Pipelines** – Coming soon  
 - ☁️ **Cloud & AI Ops Experiments** – Coming soon  
 - 📚 **NoSQL** – Coming soon  
