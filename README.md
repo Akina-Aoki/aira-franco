@@ -23,11 +23,11 @@ me = Aira()
 
 ---
 ## 🧭 About Me
-- ☕ Enjoys hiking mountains (the higher, the better)
+-  Enjoys hiking mountains (the higher, the better)
 - Snowboarding in POWDER, off piste preferably
 - Camping by the beach
-- Good roasted coffee
-- Cookig and sharing food
+- ☕ Good roasted coffee
+- Cooking and sharing food
 - ✨ Always learning. Keep on going. 
 ---
 # 💻 Tech Stack:
