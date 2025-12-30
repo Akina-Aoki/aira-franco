@@ -24,7 +24,14 @@ me = Aira()
 ![snake gif](https://github.com/Akina-Aoki/Akina-Aoki/blob/output/github-contribution-grid-snake.svg)
 
 ---
-## 🧭 About Me   
+## 🧭 About Me
+- ☕ Enjoys hiking mountains (the higher, the better)
+- Snowboarding in POWDER, off piste preferably
+- Camping by the beach
+- Good roasted coffee
+- Cookig and sharing food
+ <br>   
+- ✨ Always learning. Keep on going. 
 - 💡 Likes to learn about data pipelines, automation, cloud analytics, and real-world data impact  
 - 🧠 Exploring Python, DuckDB SQL, data modeling, visualization, NoSQL, data warehouse lifecycle, big data, cloud-practical development, and AI Ops (part of curriculum)   
 - 📈 Targeting Data Engineering roles for my **LIA internship (Jan–May 2027)**  
@@ -58,12 +65,6 @@ me = Aira()
 
 ---
 
-##  Fun Facts  
-- ☕ Enjoys hiking, snowboarding, camping, good roasted coffee and cooking  
-- 🧳 Loves studying Data Engineering and collaborating on projects  
-- ✨ Always learning. Keep on going. 
-
----
 ## 🎥 Favorite YouTube Videos of the Month
 Favorite Cake; Basque Cheescake
 [![Basque Cheesecake](https://img.youtube.com/vi/yri-qsRkJwc/hqdefault.jpg)](https://www.youtube.com/watch?v=yri-qsRkJwc)
