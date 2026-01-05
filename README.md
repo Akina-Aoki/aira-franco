@@ -40,13 +40,8 @@ me = Aira()
 
 ---
 ## 🚀 Projects & Highlights
-- 🦆 **DuckDB SQL Relational Database** 
-- 🧮 **OOP / Python**   
-- 📊 **ETL Pipelines** – Coming soon  
-- ☁️ **Cloud & AI Ops Experiments** – Coming soon  
-- 📚 **NoSQL** – Coming soon  
-- 🗄 **Data Warehousing** – Coming soon  
-
+- 🦆 [DuckDB SQL Relational Database and Evidence Dashboard using Sakila Database, DuckDB and Pandas](https://github.com/Akina-Aoki/sql_lab1_aira_franco.git)
+- 🧮 [Object Oriented Programming / Python](https://github.com/Akina-Aoki/aira_franco_lab2.git)
 ---
 
 ### ✍️ Random Dev Quote
